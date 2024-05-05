@@ -2,7 +2,7 @@ package zrpc
 
 import (
 	"context"
-	"test/zrpc/message"
+	"zrpc/message"
 )
 
 type Proxy interface {

@@ -2,7 +2,7 @@ package proto
 
 import (
 	"errors"
-	"test/zrpc/serialize"
+	"zrpc/serialize"
 
 	"google.golang.org/protobuf/proto"
 )

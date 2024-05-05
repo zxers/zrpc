@@ -2,7 +2,7 @@ package json
 
 import (
 	"encoding/json"
-	"test/zrpc/serialize"
+	"zrpc/serialize"
 )
 
 var _ serialize.Serializer = &Serializer{}

@@ -6,9 +6,9 @@ import (
 	"net"
 	"reflect"
 	"strconv"
-	"test/zrpc/message"
-	"test/zrpc/serialize"
-	"test/zrpc/serialize/json"
+	"zrpc/message"
+	"zrpc/serialize"
+	"zrpc/serialize/json"
 	"time"
 )
 

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"test/zrpc"
-	"test/zrpc/serialize/json"
-	"test/zrpc/serialize/proto"
+	"zrpc"
+	"zrpc/serialize/json"
+	"zrpc/serialize/proto"
 )
 
 func main() {

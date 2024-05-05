@@ -3,7 +3,7 @@ package zrpc
 import (
 	"encoding/binary"
 	"net"
-	"test/zrpc/message"
+	"zrpc/message"
 )
 
 

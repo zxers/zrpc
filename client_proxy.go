@@ -6,8 +6,8 @@ import (
 	"log"
 	"reflect"
 	"strconv"
-	"test/zrpc/message"
-	"test/zrpc/serialize"
+	"zrpc/message"
+	"zrpc/serialize"
 )
 
 func InitClientProxy(service Service, p Proxy, serialize serialize.Serializer) error {

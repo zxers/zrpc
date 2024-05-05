@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"test/zrpc/serialize/json"
-	"test/zrpc/serialize/proto"
+	"zrpc/serialize/json"
+	"zrpc/serialize/proto"
 	"testing"
 )
 

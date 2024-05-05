@@ -2,8 +2,8 @@ package zrpc
 
 import (
 	"context"
-	"test/zrpc/message"
-	"test/zrpc/serialize/json"
+	"zrpc/message"
+	"zrpc/serialize/json"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
